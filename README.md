@@ -23,7 +23,7 @@ For example, how much does this basket of books cost?
 1 copy of "The Mythical Man Month" (1 author)
 1 copy of "Programming in C++" (2 authors)
 
-Answer: 56.00 EUR
+Answer: 30.40 EUR
 ```
 
 ### Example 2
@@ -38,7 +38,7 @@ For example, how much does this basket of books cost?
 1 copy of "A Introduction to Computer Science Using Python 3.6" (3 authors)
 1 copy of "Programming in C++" (2 authors)
 
-Answer: 56.00 EUR
+Answer: 62.40 EUR
 ```
 
 ### Example book data
